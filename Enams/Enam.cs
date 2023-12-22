@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp11.Enams
+namespace ConsoleHome.Enams
 {
    
     public enum Operation
